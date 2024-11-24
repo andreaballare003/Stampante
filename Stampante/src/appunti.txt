@@ -1,0 +1,14 @@
+Idea struttura package
+
+colorModel
+dataModel
+imageModel
+inkJetPrinter
+
+Interfaccia (Misurabile)
+	getArea
+	getPerimetro
+	
+Interfaccia (printable)
+	getNeededInk (colore c)
+	
